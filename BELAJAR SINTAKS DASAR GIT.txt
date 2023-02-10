@@ -1,0 +1,46 @@
+### BELAJAR GIT ###
+
+01. Klik kanan pada file yang dipilih lalu klick Git Bash
+
+02. git init
+
+03. git remote add origin "link repositories github yang ingin di upload"
+
+ingin menambahkan/upload fike 
+
+04. git add file1.txt 
+
+cek status hasilnya
+
+05. git status
+
+06. git commit -m "deskripsi file yang ingin di upload
+
+cek kembali statusnya pastikan sudah clear yang di commit
+
+07. git status
+
+08. git push -u origin master / (main)
+
+
+CARA BUAT BRANCH
+
+01. git checkout -b feature_a
+
+02. git add . (jika ingin menambahkan file)
+
+03. git commit -m 
+
+04. git push origin feature_a
+
+JIKA INGIN KEMBALI KE BRANCH MASTER
+
+05. git checkout master
+
+JIKA INGIN MERGE BRANCH
+
+06. git merge feature_a
+
+CARA HAPUS BRANCH 
+
+07. git checkout -d feature_a

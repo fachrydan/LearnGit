@@ -6,6 +6,8 @@
 
 03. git remote add origin "link repositories github yang ingin di upload"
 
+04. git add . (jika ingin menambahkan file secara keseluruhan yang di git bash)
+
 ingin menambahkan/upload fike 
 
 04. git add file1.txt 
@@ -14,7 +16,7 @@ cek status hasilnya
 
 05. git status
 
-06. git commit -m "deskripsi file yang ingin di upload
+06. git commit -m "deskripsi file yang ingin di upload"
 
 cek kembali statusnya pastikan sudah clear yang di commit
 
